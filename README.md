@@ -1,11 +1,3 @@
-<!doctype html>
-<html lang="de">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>XStreamDroid - Datenschutzerklaerung</title>
-  <style>body{max-width:760px;margin:40px auto;padding:0 20px;font:16px/1.6 system-ui,sans-serif;color:#172033}h1,h2{line-height:1.25}small{color:#5f6b7a}</style>
-</head>
 <body>
   <h1>Datenschutzerklaerung fuer XStreamDroid</h1>
   <p><small>Stand: 6. August 2026</small></p>
