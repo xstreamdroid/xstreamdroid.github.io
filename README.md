@@ -1,4 +1,4 @@
-<body>
-  <h1> XStreamDroid</h1>
-</body>
+# XStreamDroid
 
+Datenschutzerklärung:
+https://xstreamdroid.github.io/privacy-policy.html
